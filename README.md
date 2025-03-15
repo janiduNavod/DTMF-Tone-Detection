@@ -31,17 +31,28 @@ soundfile for reading audio files
 ## Usage
 
 Place the .wav audio files in the project directory.
+
 Run the script:
+
 python dtmf_detection.py
+
 The script will:
+
 Play the audio files.
+
 Detect and print the DTMF digits (phone numbers).
+
 Display time-domain and frequency-domain plots.
 
 ## File Structure
 .
+
 ├── dtmf_detection.py   # Main script for detecting DTMF numbers
+
 ├── tone01.wav          # Example audio file
+
 ├── tone02.wav          # Example audio file
+
 ├── tone03.wav          # Example audio file
+
 ├── README.md           # Project documentation
