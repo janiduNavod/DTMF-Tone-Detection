@@ -57,7 +57,7 @@ Display time-domain and frequency-domain plots.
 
 ├── README.md           # Project documentation
 
-#Time domain and Frequency domain
+# Time domain and Frequency domain
 
 ![Screenshot (166)](https://github.com/user-attachments/assets/5ca37cee-c60b-4de7-9a73-88f3c83e2e27)
 
