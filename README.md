@@ -52,6 +52,7 @@ Display time-domain and frequency-domain plots.
 ├── tone01.wav          # Example audio file
 
 ├── tone02.wav          # Example audio file
+![Screenshot (166)](https://github.com/user-attachments/assets/5ca37cee-c60b-4de7-9a73-88f3c83e2e27)
 
 ├── tone03.wav          # Example audio file
 
